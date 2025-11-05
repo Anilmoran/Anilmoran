@@ -9,7 +9,7 @@
   - 🚀 Unity ile oyun geliştirmeye odaklanmış bir yazılımcıyım.
   <br>
   - 🐦 Şu sıralar hyper-casual ve 3D party oyunları üzerinde çalışıyorum.
-  - 🎯 Daha önce Google'ın Gamejam ve Bootcamp etkinliklerinde görev aldım.
+  - 🎯 Daha önce ekip arkadaşlarım ile Google'ın Gamejam ve Bootcamp etkinliklerinde oyun geliştirici olarak görev aldım.
 </p>
 
 <br>
@@ -31,6 +31,6 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anilmoran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anilmoran&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilmoran&layout=compact&langs_count=8&theme=dracula"/>
 </p>
