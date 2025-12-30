@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Anıl!
 
+---
+
 ### 🎮 Unity Game Developer 🎮
 
 🎯 Currently working on hyper-casual and 3D party games.
-###
+<br>
 💬 I've previously developed games with my teammates during Gamejams and Bootcamp events.
 
 ---
@@ -21,6 +23,6 @@
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anilmoran&show_icons=true&theme=tokyonight" alt="Anıl's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilmoran&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anilmoran&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anilmoran&layout=compact&theme=tokyonight" height="150" />
 </p>
