@@ -3,6 +3,7 @@
 ### 🎮 Unity Game Developer 🎮
 
 🎯 Currently working on hyper-casual and 3D party games.
+###
 💬 I've previously developed games with my teammates during Gamejams and Bootcamp events.
 
 ---
