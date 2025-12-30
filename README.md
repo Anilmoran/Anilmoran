@@ -8,7 +8,7 @@
 <p align="center">
   🎯 Şu sıralar hyper-casual ve 3D party oyunları üzerinde çalışıyorum.
   <br>
-  💭 Daha önce ekip arkadaşlarımla Google'ın Gamejam ve Bootcamp etkinliklerinde oyun geliştirici olarak görev aldım.
+  💭 Daha önce ekip arkadaşlarımla Gamejam ve Bootcamp etkinliklerinde oyunlar yaptık.
 </p>
 
 <br>
