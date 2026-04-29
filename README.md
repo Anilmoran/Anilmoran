@@ -4,11 +4,11 @@
 
 ### 💻 Software & Game Developer 🎮
 
-🎯 I am actively developing **Hyper-casual & 3D Party Games**, while simultaneously building modern **Desktop & Mobile Applications**.
+🎯 I actively develop Hyper-Basic and 3D party games and desktop and mobile applications.
 <br>
-🚀 Exploring the intersection of software and data by creating **data-driven tools**, integrating **Machine Learning (ML.NET)**, and building smart analytical assistants.
+🚀 I explore the intersection of software and data by integrating machine learning using data-driven tools.
 <br>
-💭 I've previously developed games with my teammates during Gamejams and Bootcamp events, and I continue to expand my skill set across different tech stacks.
+💭 I have previously developed games with my teammates in Gamejam and Bootcamp events and continue to expand my skills across different technology stacks.
 
 ---
 
