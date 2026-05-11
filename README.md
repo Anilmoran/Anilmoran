@@ -2,7 +2,7 @@
 
 ---
 
-### 💻 Software & Game Developer 🎮
+
 
 I actively develop Hyper-Basic and 3D party games and desktop and mobile applications.
 <br>
