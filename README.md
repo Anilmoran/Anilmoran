@@ -10,7 +10,7 @@ I actively develop Hyper-Basic and 3D party games and desktop and mobile applica
 
 ---
 
-### 🛠 Tools and Technologies
+###  Tools and Technologies
 
 **Game Development:**
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
