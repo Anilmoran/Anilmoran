@@ -1,14 +1,12 @@
-# 👋 Hi, I'm Anıl!
+#  Hi, I'm Anıl!
 
 ---
 
 ### 💻 Software & Game Developer 🎮
 
-🎯 I actively develop Hyper-Basic and 3D party games and desktop and mobile applications.
+I actively develop Hyper-Basic and 3D party games and desktop and mobile applications.
 <br>
-🚀 I explore the intersection of software and data by integrating machine learning using data-driven tools.
-<br>
-💭 I have previously developed games with my teammates in Gamejam and Bootcamp events and continue to expand my skills across different technology stacks.
+ I explore the intersection of software and data by integrating machine learning using data-driven tools.
 
 ---
 
